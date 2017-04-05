@@ -1,0 +1,23 @@
+{
+  "Inventory_fetch":"60000",
+  "Network_functions":"60000",
+  "remoteconnections":"60000",
+  "all_total_disks_memory_available":"1000",
+  "all_total_disks_memory_used_perc":"1000",
+  "all_total_disks_memory_used":"1000",
+  "avg_cpu_usage_percent":"1000",
+  "avg_disk_Bytes_Read":"1000",
+  "avg_disk_Bytes_Write":"1000",
+  "avg_disk_ReadBytes_sec":"1000",
+  "avg_disk_reads_sec":"1000",
+  "avg_disk_WriteBytes_sec":"1000",
+  "avg_disk_write_sec":"1000",
+  "avg_IoTime":"1000",
+  "avg_MergedReadCount":"1000",
+  "avg_MergedWriteCount":"1000",
+  "avg_nics_packets_recive":"1000",
+  "avg_nics_packets_sent":"1000",
+  "avg_nics_recive_bytes":"1000",
+  "avg_nics_sent_bytes":"1000"
+
+}
